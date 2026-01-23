@@ -1,0 +1,41 @@
+{
+  "title": "ATO AI transparency statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "See our public transparency statement outlining how we approach artificial intelligence (AI) in the ATO."
+    },
+    {
+      "heading": "How we define AI",
+      "text": "In the ATO, we use data and analytics (D&A), including automation and AI, and the insights they provide. D&A helps us administer the tax and superannuation systems more effectively. It enables us to tailor our services and make more informed decisions. It also makes it easier for taxpayers to comply and harder not to.\nWe apply the OECD definition of AI External Link , in line with the Policy for the responsible use of AI in government External Link . We also refer to any application of machine learning, deep learning and generative AI as 'AI'. We don’t consider rules-based analytics, which are often if-then statements, to be AI. This form of analytics does not infer how to generate outputs from the inputs they receive.\nWhile AI and automation are sometimes combined to deliver outcomes, they are distinct capabilities. Automated processes can be implemented without the use of AI, and vice versa."
+    },
+    {
+      "heading": "Why we use AI in the ATO",
+      "text": "We use AI to assist our staff to more quickly process large volumes of complex data to identify insights and risks. The AI we use helps our staff make more informed decisions. It frees them to focus more on aspects of our work that require human judgment and empathy.\nWe also use AI to ensure we can continue to protect the tax and superannuation systems from external fraud and cyber attacks."
+    },
+    {
+      "heading": "How we use AI in the ATO",
+      "text": "Based on the classification system for AI External Link in government, we are using AI in the:\nusage patterns of analytics for insights, workplace productivity, and decision making and administrative action (note, we do not use AI for administrative action).\ndomains of service delivery, compliance and fraud detection, and corporate and enabling. Examples of how we are applying AI in these domains:\n\nservice delivery.\nproviding real time prompts to taxpayers.\nsending payment reminders.\npowering our virtual assistant Alex.\nmanaging call centre volumes.\ncompliance and fraud detection.\nreviewing large quantities of unstructured data.\npowering risk models to identify potential non-compliance or fraud for human review.\ncorporate and enabling services.\ncreating initial draft communications for review.\nsummarising content.\nSee Examples of how we use AI."
+    },
+    {
+      "heading": "AI governance",
+      "text": "We recognise the importance of robust governance, oversight and accountability. This helps us to ensure AI development and use is ethical and safe and delivers fit for purpose outcomes.\nWe take a measured and cautious approach when exploring AI tools and techniques. We closely monitor, and take appropriate action, if intended benefits are not being realised or unintended consequences are arising. We also actively identify and manage risks associated with all applications of AI. We only use AI in ways that maintain the security, privacy, transparency and ethical use of data. We always maintain appropriate human oversight.\nOur Chief Data Officer (CDO) oversees the development and use of data, analytics and insights. These support the administration of the tax and superannuation systems and government priorities. They deliver value for the Australian community. The CDO is also our AI Accountable Official under the Policy for the responsible use of AI in government.\nOur existing D&A (including data governance and ethics ) and IT policies already broadly apply to AI. We continue to evolve our data governance as our D&A maturity increases. We are expanding our policies and guidance to reference AI more directly. Our approach adheres to all AI-related legislative, regulatory and policy frameworks, and all standard laws and frameworks.\nAI is evolving rapidly in an ever-changing technology environment. Therefore, we will continue to evaluate and change our data governance to ensure it remains fit for purpose. We will continue to train and develop our staff to ensure we use AI safely, responsibly and ethically.\nDecision making that adversely impacts taxpayers will always be made by a human. Taxpayers have a right of review of our decisions. Their rights apply regardless of the technology we use to help us make those decisions.\nAustralian Government agencies are required to publish a transparency statement outlining their approach to adopting and using artificial intelligence (AI). We will review our AI transparency statement regularly and publish updates on our website. If you have feedback on our AI transparency statement, you can contact us ."
+    },
+    {
+      "heading": "Examples of how we use AI",
+      "text": "The following examples show how we are using AI successfully to help get tax right from the start, reduce fraud and improve communications."
+    },
+    {
+      "heading": "Tax time nudging",
+      "text": "We have developed AI models to help reduce taxpayer compliance costs and improve the efficiency of the tax system. We use these models to prompt individuals completing their tax return online through myTax to help them get it right.\nThe real-time prompts ask the taxpayer to check amounts they have entered for certain tax return labels. This is when the amounts don't match what we expect when compared to other taxpayers with similar attributes or amounts entered in previous years. The taxpayer can then review and amend any mistakes before lodging, getting their tax right from the start.\nClassification system for AI use: analytics for insights usage pattern, service delivery domain."
+    },
+    {
+      "heading": "Fraud detection",
+      "text": "We manage the myID digital platform, which provides an easy and secure way for individuals to prove their identity and access a range of government online services. We use AI to scan all myID accounts to identify and risk score the likelihood of digital identity theft (third-party fraud). We base this on a pre-defined range or parameter of inputs.\nThe ranked results and drivers of the risk scores are provided to digital identify fraud investigators (ATO staff) for review. The investigators review the results, with a focus on those rated high risk. They then determine if a myID should be suspended. Investigators can view all results, not just those rated high risk.\nClassification system for AI use: analytics for insights usage pattern, compliance and fraud detection domain."
+    },
+    {
+      "heading": "Communications content",
+      "text": "We use AI tools for creative and video production activities. They help us edit and enhance content quality and automate manual tasks. We use AI tools to separate subjects from backgrounds, resize images, and apply consistent styles. They also help us resolve accessibility issues, including readability, colour contrast, and formats. AI helps us produce better communications content, in less time and cost.\nClassification system for AI use: workplace productivity usage pattern, corporate and enabling domain."
+    }
+  ]
+}

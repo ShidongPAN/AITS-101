@@ -1,0 +1,57 @@
+{
+  "title": "Artificial Intelligence (AI) Transparency Statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "The policy for the responsible use of AI in government provides mandatory requirements for departments and agencies relating to accountable officials, and transparency statements. It sets out the Australian Government approach to embrace the opportunities of AI and provide for safe and responsible use of AI. This page outlines the AIC’s commitment to these policy requirements and for the ethical use of AI in its criminological research, ensuring transparency, accountability, and inclusivity."
+    },
+    {
+      "heading": "Defining artificial intelligence",
+      "text": "The AIC applies the definition of artificial intelligence provided by the Organisation for Economic Co-operation and Development (OECD): An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment."
+    },
+    {
+      "heading": "Accountable officials",
+      "text": "Agencies must designate accountability for implementing the policy for responsible use of AI in government to accountable official(s).\nThe responsibilities of the accountable officials are to:\nbe accountable for implementation of the policy within their agencies.\nnotify the Digital Transformation Agency (DTA) where the agency has identified a new high-risk use case by emailing ai@dta.gov.au . This information will be used by the DTA to build visibility and inform the development of further risk mitigation approaches.\nbe a contact point for whole-of-government AI coordination.\nengage in whole-of-government AI forums and processes.\nkeep up-to-date with changing requirements as they evolve over time.\nThe accountable official for the AIC is the Deputy Director."
+    },
+    {
+      "heading": "Use of artificial intelligence by the AIC+Use in research",
+      "text": "The AIC has published a policy for use of generative AI in projects funded by the Criminology Research Grants program. This permits grantees to use AI for research purposes, while maintaining ethical standards, transparency and ensuring data protection.\nUse of AI in research by AIC staff is currently restricted and reviewed on a case-by-case basis. For example, supervised machine learning algorithms have been used in a small number of studies undertaken by the AIC to generate prediction models.\nIn using AI for research purposes, AIC staff are not permitted to export or upload data to any third-party AI application.\nPrior to undertaking research that involves applying AI, AIC staff will seek approval from a human research ethics committee."
+    },
+    {
+      "heading": "Other uses of AI",
+      "text": "AI is used to improve productivity of staff by:\nGenerating abstracts from publicly available and open-source non-commercial publications for use by the library.\nGenerating and debugging code used in data analysis."
+    },
+    {
+      "heading": "Staff training",
+      "text": "All AIC staff are required to complete the Australian Public Service Academy’s AI in Government Fundamentals course by 31 May 2025."
+    },
+    {
+      "heading": "Public interaction and impact",
+      "text": "The AIC does not propose to use AI where the public may directly interact with or be significantly impacted by it."
+    },
+    {
+      "heading": "Monitoring",
+      "text": "The AIC will review on an ongoing basis the internal policies and governance approaches to AI to ensure they remain fit for purpose."
+    },
+    {
+      "heading": "Compliance",
+      "text": "The AIC only uses AI services in accordance with applicable legislation, regulations, frameworks and policies."
+    },
+    {
+      "heading": "Policy for the responsible use of AI in government",
+      "text": "The AIC complies with all mandatory requirements of the policy."
+    },
+    {
+      "heading": "Accountable official",
+      "text": "The accountable official was appointed and notified to the DTA on 21 February 2025."
+    },
+    {
+      "heading": "AI transparency statement",
+      "text": "The AI transparency statement was first published to this website on 28 February 2025."
+    },
+    {
+      "heading": "AI contact",
+      "text": "For questions about this statement or for further information on the AIC’s use of AI, please contact frontdesk@aic.gov.au."
+    }
+  ]
+}

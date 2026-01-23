@@ -1,0 +1,29 @@
+{
+  "title": "AI transparency statement | Australian Financial Security Authority",
+  "sections": [
+    {
+      "heading": "",
+      "text": "The Digital Transformation Agency policy for responsible AI use sets mandatory requirements for AFSA's accountable official and transparency statement."
+    },
+    {
+      "heading": "AI transparency statement",
+      "text": "The Digital Transformation Agency’s (DTA) policy for the responsible use of AI in government outlines mandatory requirements that apply to AFSA in relation to our accountable official and transparency statement. The implementation of these requirements is outlined below."
+    },
+    {
+      "heading": "Our perspective on AI",
+      "text": "AFSA plays an important role in supporting Australia's personal insolvency and personal property securities systems, and criminal assets management. The growing availability and capability of AI tools and products presents a significant opportunity for AFSA to consider, given its potential to improve and simplify our work in a positive way.\nHowever, this must be approached with due consideration of related risks and concerns, such as explainability, accountability, and unintended outcomes. We must also consider and be guided by the expectations of, and potential impacts to, our key stakeholders and the wider Australian community.\nOur usage of the term AI aligns to the Organisation for Economic Co-operation and Development (OECD) definition of AI :\nAn AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment."
+    },
+    {
+      "heading": "Oversight of our use of AI",
+      "text": "We are currently refreshing our approach to data and information governance to include a focus on AI governance, in alignment with our existing data and information governance policies. This will support decision making in relation to AI use cases with consideration of effectiveness, fairness, alignment with ethical standards and public expectations, and compliance with relevant legislation and regulation. This will also include our approach to monitoring AI use cases to support the safe and responsible ongoing use of AI, and identification of unintended impacts of the AI use cases."
+    },
+    {
+      "heading": "Our use of AI",
+      "text": "AFSA is using AI in the domain of Corporate and Enabling, and usage patterns of Analytics for Insights (for example, codebase analysis, and forecasting and predictive modelling to support insight generation), and Workplace Productivity (e.g. summarising documents and emails, and preparing internal content creation).\nThis does not include the use of AI where the public may directly interact with, or be significantly impacted by, AI without a human intermediary or intervention."
+    },
+    {
+      "heading": "Compliance with the DTA AI Policy",
+      "text": "We comply with the mandatory requirements outlined in the DTA's AI Policy, including:\nnomination of AFSA's Chief Information Officer as our accountable official. This role ensures robust monitoring and evaluation of AI systems to maintain effectiveness, fairness, and compliance with government policies, and leads development of governance for AI adoption in AFSA.\npublication of this transparency statement on AFSA's website.\nThis statement will be reviewed annually, when there is a significant change to AFSA’s approach to AI, or when any new factor materially impacts the existing statement’s accuracy. Last updated: 24/02/2025.\n\nFor further enquiries, contact: info@afsa.gov.au."
+    }
+  ]
+}

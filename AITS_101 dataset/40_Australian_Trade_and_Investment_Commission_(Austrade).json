@@ -1,0 +1,17 @@
+{
+  "title": "Austrade's AI transparency statement",
+  "sections": [
+    {
+      "heading": "How Austrade defines AI",
+      "text": "In Austrade we apply the OECD definition of AI in line with the policy for “Responsible Use of AI in Government” developed by the Digital Transformation Agency.\nThe definition states:\n“An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment.”"
+    },
+    {
+      "heading": "How Austrade uses AI",
+      "text": "Austrade does not currently use AI on a wide scale.  The only approved tools in use currently include the Microsoft 365 CoPilot virtual assistant - this tool is currently being trialled by a limited number of users; and some machine learning models which use trade data to identify new export opportunities and potential markets for Australian exporters.\nAustrade is interested in understanding the potential application and usage of other AI tools across our functions and to do this we will continue to undertake active research and testing with AI technologies.   Austrade is also engaging in the Government’s AI CoLab Alliance, supported by the APS Capability Reinvestment Fund.\nWhen Austrade approves solutions for use, this transparency statement will be updated accordingly.\nAustrade maintains visibility of AI use and classifies AI use according to the following usage patterns and domains :\nUsage patterns: supporting human decision-making and administrative action, giving insights through analytics and improving workplace productivity so staff can focus on more complex work.\nDomains: Corporate and Enabling – Supporting our corporate functions, including HR, finance, media and communications, and ICT, by automating processes, optimising resource allocation and improving operational efficiency."
+    },
+    {
+      "heading": "Monitoring and Governance",
+      "text": "The Head of Digital Products and Platforms, is the designated Accountable Official (AO) for all AI matters. They are responsible for Austrade's implementation of the whole-of-government Policy for the Responsible Use of AI in Government.\nThey are also responsible for ensuring the following:\nAI is only used under human supervision.\nThe outputs of AI models are monitored for effectiveness.\nAI use complies with all relevant legislation and regulation regarding Privacy and AI.\nAny proposed AI solutions must be reviewed and considered by Austrade’s Digital and Technology Steering Committee and adhere to Australia’s AI Ethics Principles.  A security risk management plan needs to be developed for any potential AI tool put forward for use, as well as an ethics assessment. As our AI maturity increases, we will continue to evolve our governance processes and ensure that our staff are trained in how to use AI safely and ethically.\nFor further enquiries please visit our Contact us page."
+    }
+  ]
+}

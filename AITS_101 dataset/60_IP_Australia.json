@@ -1,0 +1,30 @@
+{
+  "title": "IP Australia artificial intelligence transparency statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "This artificial intelligence (AI) transparency statement provides the public with relevant \ninformation about IP Australia’s use of AI. This statement is required under the Policy for the \nresponsible use of AI in government (the Policy)."},
+    {
+      "heading": "Why do we use AI?",
+      "text": "IP Australia’s purpose is Enabling Australians to benefit from great ideas by providing a \nworld- leading IP system. We use AI where it can support the achievement of this purpose \nand our strategic objectives as outlined in our corporate plan. We are committed to \ncontinually improving our capabilities to meet current and future needs, and AI is becoming \nincreasingly important to ensure we foster innovation and adaptiveness in our stewardship \nof the IP rights system. We engage AI-assisted tools where they will support us to improve \nthe efficiency and accessibility of the IP rights system and deliver innovative digital and \ndata-driven customer services and staff experiences."
+    },
+    {
+      "heading": "How do we govern AI?",
+      "text": "IP Australia’s Accountable Official for AI is the Deputy Director General. The Accountable \nOfficial is accountable for governance of AI and implementation of the policy within IP \nAustralia.\nTo ensure appropriate monitoring and governance of AI, IP Australia is participating in the \nAustralian Government Pilot AI Assurance Framework, applies Australia’s AI Ethics Principles\nand implements additional risk-scaled governance mechanisms.\nOur approach to governance empowers our people to engage in low-risk AI use cases, and \nensures that higher-risk applications are subject to rigorous controls and conditions to \nprotect the public, our customers and our staff.\nUnder our IP rights legislation, the Commissioner and/or Registrar is required to authorise \nthe use of any computerised (automated) decision-making system (which may or may not \ninclude AI) to make a decision, exercise any power or comply with any obligation, or do \nanything else related to the aforementioned exercises. To ensure compliance with this \nrequirement, use cases affecting IP rights decisions require additional review and approval \nby the relevant Registrar/Commissioner as per the agency Automated Decision-Making \nGovernance Policy, which also governs broader applications of automated decision making \nacross our business."},
+    {
+      "heading": "What types of AI do we use?",
+      "text": "IP Australia currently uses AI in the following domains and usage patterns. More \ninformation about AI usage patterns and domains is available on the DTA website. Domains: Service delivery: Enhances efficiency or accuracy of services. For example, an AI assisted tool that improves the accessibility of the Trade mark system for small \nand medium enterprises: TM Checker. TM checker is an AI-assisted tool that the \npublic can interact with directly, or be impacted by, without a human \nintermediary or intervention. Corporate and enabling: Automates processes, optimises resources and improves \nefficiency. Compliance and fraud detection: Identifies patterns or anomalies in data to \ndetect fraudulent activities and ensure compliance with laws and regulations. Policy and legal: Analyses policies and legal documents to provide advice and \nassurance. Usage patterns:Decision making and administrative action: Supports decision making or the \ntaking of administrative action by guiding, assessing or making a \nrecommendation to a human decision maker. Analytics for insights: Identifies, produces or understands insights within \nstructured or unstructured materials via comprehensive data analysis, predictive \nmodelling and/or reporting tools. Workplace productivity: Automates routine tasks, manages workflows, and \nfacilitates communication. Image processing: Processes images to identify patterns and objects."
+    },
+    {
+      "heading": "How do we comply with the Policy?",
+      "text": "IP Australia complies with all mandatory requirements of the Policy. This includes listing our \naccountable officer for AI (the Deputy Director General), ensuring this transparency \nstatement is available on our website, and reviewing this statement annually or sooner, as \noutlined below. IP Australia has also implemented or is working towards all discretionary \nrecommendations."},
+    {
+      "heading": "When will this transparency statement be updated?",
+      "text": "This statement will be updated at least once a year, or sooner if we make any significant \nchange to our approach to AI, or if any new factor materially impacts the existing \nstatement’s accuracy."
+    },
+    {
+      "heading": "Who can I talk to?",
+      "text": "For any enquires regarding IP Australia’s use of AI, please contact \nMDB-Enterprise-Risk@ipaustralia.gov.au. \n27 February 2025."
+    }
+  ]
+}
