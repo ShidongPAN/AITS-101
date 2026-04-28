@@ -1,0 +1,33 @@
+{
+  "title": "Artificial intelligence (AI) transparency statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Our AI transparency statement explains how we intend to use AI technology, and how we will adopt and use AI in line with the Australian public's and Government's expectations. The Department of Health, Disability and Ageing’s commitment to the safe and responsible use of AI supports our vision to deliver better health and wellbeing for all Australians, now and for future generations. \n\nThe Digital Transformation Agency’s (DTA) Policy for the responsible use of Artificial Intelligence (AI) in government sets a framework for the Australian Government’s safe, responsible, adoption and use of AI. Along with the Standard for AI transparency statements and Interim guidance on government use of public generative AI tools. "
+    },
+    {
+      "heading": "Why we use AI",
+      "text": "To achieve our vision in delivering better health and wellbeing for all Australians, the department commits to the safe and responsible adoption of AI to take advantage of the various benefits the technology provides."
+    },
+    {
+      "heading": "How we use AI",
+      "text": "The department uses generative and narrow model AI In line with the DTA’s Classification systems for use as below: Usage patterns: for analysing data to gain insights and automating activities to make tasks more efficient and increase workplace productivity. This allows staff to focus on more complex and meaningful work. Domains: include scientific, compliance and fraud detection, corporate and enabling and service delivery. "
+    },
+    {
+      "heading": "Our approach with AI",
+      "text": "A human will assess all AI outputs to ensure accuracy. We will not use AI for decision making purposes.\nThe department isn’t using AI applications where the public can directly interact with or be impacted by AI. We will update this transparency statement if our approach changes."
+    },
+    {
+      "heading": "Our commitment",
+      "text": "The department is committed to using AI in a responsible and transparent way. Our AI initiatives will align with the APS values and have the publics’ best interest at heart. We will continue to work closely with the DTA and use AI in accordance with applicable:\nlegislation.\nregulations.\nframeworks.\npolicies.\nbest practice."
+    },
+    {
+      "heading": "Safe and responsible AI adoption",
+      "text": "We will be transparent as we adopt responsibly the evolving AI technology and policy requirements. The department is developing internal Health and Aged Care AI policy and guidance material.\nThese will align with the DTA’s Policy, advice and guidance on the safe, responsible and ethical use of AI. We will make sure our policies meet the proposed mandatory guardrails for AI in high-risk settings that are underway by the Department of Industry, Science and Resources.\nWe will leverage whole of Australian Government policies and develop internal policies and guidance materials when necessary for:\nAI Governance and approval processes.\nacceptable use of AI in the department.\nethical considerations.\nFreedom of Information (FOI) considerations.\nrecord keeping.\nsecurity, procurement of AI systems.\nrisk mitigation and technical guardrails.\nroles and responsibilities when using AI and required training for identified roles.\nThese internal policies will apply to all employees (including contractors) and consultants.\nWe will update this transparency statement as the department continues to develop policies on AI usage and to implement AI technology."
+    },
+    {
+      "heading": "Contact",
+      "text": "The Chief Digital Information Officer is our AI Accountable Official for the department.\nFor questions about this statement or the department’s use of AI, you can contact our AI Accountable Official.\nAI Accountable Official Contact our AI Accountable Official for questions about the department’s use of AI. AI@health.gov.au"
+    }
+  ]
+}

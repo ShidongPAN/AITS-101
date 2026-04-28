@@ -1,0 +1,33 @@
+{
+  "title": "IHACPA’s AI Transparency Statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "In accordance with the Digital Transformation Agency’s (DTA) Policy for responsible use of\nAI in government, this page presents the Independent Health and Aged Care Pricing \nAuthority’s statement on Artificial Intelligence Transparency."},
+    {
+      "heading": "How IHACPA uses Artificial Intelligence",
+      "text": "At this time, IHACPA does not use Generative artificial intelligence (AI) in its decision\u0002making."
+    },
+    {
+      "heading": "Monitoring and Governance",
+      "text": "Accountable Officials:\nIHACPA has designated Julia Hume, Executive Director, Costing and Data Infrastructure be \nthe AI Accountable Officer."},
+    {
+      "heading": "Responsible AI usage policy:",
+      "text": "IHACPA has developed and maintains a Policy for the responsible use of artificial\nintelligence (AI). The policy aligns with advice and guidance provided by the DTA for using AI\nservices ethically and responsibly to ensure that it is appropriately governed, is safe and that\nrisks are identified and addressed."
+    },
+    {
+      "heading": "Training and assistance:",
+      "text": "All IHACPA staff will undertake the DTA’s AI fundamentals training modules. \nAdditional training will be provided to staff in consideration of their roles and responsibilities, \nsuch as those responsible for the procurement, development, training and deployment of AI \nsystems."},
+    {
+      "heading": "Compliance with Legislation and Regulations",
+      "text": "IHACPA ensures AI usage complies with Australian legislation, such as data privacy and\nanti-discrimination laws through the implementation of its Policy for the responsible use of\nartificial intelligence (AI). The Policy aligns with the Australian Government's Policy for\nresponsible use of AI in government."
+    },
+    {
+      "heading": "Statement Review and Updates",
+      "text": "This transparency statement was last updated on 26 February 2025.\nThis statement will be updated as and when IHACPA’s approach to AI changes or when \ndevelopments materially affect the statement’s accuracy, and at least every twelve months."},
+    {
+      "heading": "Contact Information",
+      "text": "For inquiries about IHACPA's AI use, please email: SecurityIHACPA@ihacpa.gov.au."
+    }
+  ]
+}

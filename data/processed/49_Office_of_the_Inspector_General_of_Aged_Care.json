@@ -1,0 +1,23 @@
+{
+  "title": "Artificial Intelligence Transparency Statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "The Digital Transformation Agency's Policy for the responsible use of AI in government sets \nout the Australian Government approach to embrace the opportunities of Artificial \nIntelligence (AI) and provide for safe and responsible use of AI.\nThe Office of the Inspector-General of Aged Care (OIGAC) is committed to the requirements as set \nout in the policy including ensuring safe, ethical and responsible use of AI in undertaking our work.\nWe will be transparent in our use of AI technology."},
+    {
+      "heading": "How the OIGAC uses AI",
+      "text": "The OIGAC does not currently use AI in any way that members of the public will be affected \nby, or directly interact with, without human interaction.\nWe aim to use AI to support workplace productivity and improve operational efficiency.\nOur submissions phone line invites people to provide a verbal submission via voicemail, \nwhich is transcribed by AI. However, the original recording remains available for human \nvalidation."
+    },
+    {
+      "heading": "Our Approach",
+      "text": "Our staff will assess any and all outputs of AI to ensure accuracy. We will not use AI for \ndecision making purposes. \nWhere the OIGAC implements further AI capability, this statement will be updated to \noutline our use including: why we are using AI or considering further adoption.\n classification of AI use according to usage patterns and domains.\n classification of use where the public may directly interact with, or be significantly \nimpacted by, AI without a human intermediary or intervention.\n measures to monitor the effectiveness of deployed AI systems, such as governance \nor processes.\n compliance with applicable legislation and regulation.\n efforts to identify and protect the public against negative impacts.\n compliance with each requirement under the Policy for the responsible use of AI in \ngovernment."},
+    {
+      "heading": "Ensuring Responsible Use",
+      "text": "The OIGAC outsources the provision of our information and communication technology (ICT) \nservices from the Department of Health and Aged Care (DoHAC).We operate within the constraints of the DoHAC ICT environment, including its policies \naround the acceptable use of AI.\nInternally, the OIGAC Executive Committee has oversight of the use of AI products within \nthe agency."
+    },
+    {
+      "heading": "Accountable Official",
+      "text": "The Inspector-General of Aged Care is designated as the Accountable Official for the agency.\nFor questions about this statement or further information relating to the use of AI but the \nOIGAC, you can contact us via:\nEmail: contact@igac.gov.au, or. Postal address:\nOffice of the Inspector-General of Aged Care\nPO Box 350\nWoden ACT 2606, Australia."
+    }
+  ]
+}

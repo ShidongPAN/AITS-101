@@ -1,0 +1,41 @@
+{
+  "title": "Attorney-General’s Department Artificial Intelligence Transparency Statement",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "text": "We are trialling the use of Artificial Intelligence (AI) as part of the Australian Government’s commitment to harness analytical tools and techniques to:\npredict service needs.\nimprove user experience.\nsupport evidence-based decisions.\ngain efficiencies in agency operations.\nWe are committed to ensuring the way we develop, deploy and use AI systems is transparent, accountable and fair.\nThis transparency statement explains the AI systems we use, how they function, and the data they rely on. This aligns with the Australian Government’s Policy for the responsible use of AI in government and the requirements for AI transparency. It is also part of our ongoing commitment to safe and responsible use of AI and innovation."
+    },
+    {
+      "heading": "Scope and applications",
+      "text": "The AI technologies we use include:\ngenerative AI.\nmachine learning.\nnatural language processing.\nspeech recognition.\nchatbots.\ncomputer vision.\nWe apply these technologies to:\nautomate routine administrative tasks.\nassist with drafting routine, internal and non-sensitive communications.\nautomate document classification.\nanalyse sentiment to understand patterns and trends in large data sets.\ncategorise documents using predictive analytics."
+    },
+    {
+      "heading": "Data privacy and security",
+      "text": "Protecting the privacy and security of personal, sensitive and classified information is of paramount importance to us. We ensure that any data used in AI systems is handled in accordance with the Privacy Act 1988 (Cth) , the Protective Security Policy Framework and other relevant data protection laws. Personal information is only collected, used, and shared where necessary, and in ways that comply with our privacy policy ."
+    },
+    {
+      "heading": "AI governance and oversight",
+      "text": "We have developed guidance material and implemented rigorous governance processes to monitor and oversee the use of AI within the department. This includes:\nappointing accountable officials in line with the Policy for the responsible use of AI in government.\nensuring governance bodies have oversight of all AI projects within the department.\ndeveloping policies guiding staff use of AI and information technology systems.\nmaking AI training available to all staff.\nimplementing our Data Governance Framework and Data Strategy, which serve as the foundation for managing and leveraging data effectively within the department.\nmaintaining user accreditation under the Data Availability and Transparency Act 2022.\nimplementing the Commonwealth’s AI Assurance Framework."
+    },
+    {
+      "heading": "Usage patterns and domains",
+      "text": "The following section shows how we classify our AI use and the domains in which we apply it, in keeping with the Classification system for AI use under the Policy for the responsible use of AI in government."
+    },
+    {
+      "heading": "Usage patterns",
+      "text": "The following usage patterns describe our use of AI:\nanalytics for insights.\nworkplace productivity.\nimage processing."
+    },
+    {
+      "heading": "Domains",
+      "text": "We apply AI tools across the department in the following domains:\nservice delivery.\ncompliance and fraud detection.\npolicy and legal.\ncorporate and enabling services."
+    },
+    {
+      "heading": "Continuous improvement",
+      "text": "As part of our ongoing commitment to responsible AI, we regularly review and update our AI policies and practices. This includes staying informed about new developments in AI technology, ethics, and regulatory requirements. We strive to improve the transparency, fairness, and effectiveness of our AI systems through continuous learning and adaptation.\nWe will review this statement annually, when we make a significant change to our approach to AI, or when new factors impact this statement."
+    },
+    {
+      "heading": "Contact information",
+      "text": "We are committed to engaging with stakeholders and providing opportunities for feedback on our use of AI systems.\nIf you have questions, concerns, or would like more information about how we use AI, please contact us ."
+    }
+  ]
+}

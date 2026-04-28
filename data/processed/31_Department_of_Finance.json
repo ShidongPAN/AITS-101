@@ -1,0 +1,36 @@
+{
+  "title": "Artificial Intelligence (AI) Transparency Statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "The Department of Finance (Finance) is committed to the safe and responsible use of artificial intelligence (AI).\n\nWe consider AI offers significant opportunities to improve productivity and service delivery within our workplace.\n\nWe govern our AI in line with applicable laws and regulations, the Digital Transformation Agency's (DTA) Policy for the responsible use of AI in government  (the Policy) and best practice.\n\n"},
+    {
+      "heading": "Our approach to AI",
+      "text": "At Finance, we are applying the guidance outlined in DTA’s Pilot Australian Government AI assurance framework (the Framework) and have chosen to limit our use of AI to low-risk use cases. This guidance implements Australia’s AI Ethics Principles and uses the Organisation for Economic Cooperation and Developments (OECD) concepts to define AI and identify which of our systems uses AI.\nWe assess the risk of each use case against 7 criteria and a risk matrix outlined in the framework . These are:\nfairness.\nreliability and safety.\nprivacy protection and security.\ntransparency and explainability.\ncontestability.\naccountability.\nhuman-centered values.\nThis assessment determines if a use case is low, medium, or high risk. A low-risk use case means AI does not:\ndirectly interact with, or significantly impact the public without human intervention.\nrisk the security of the information or data we hold.\nharm the privacy of any individual, including our staff.\nWe reassess our use cases when:\na notable change is made to our approach to AI or use of AI.\na use case progresses to another stage in its life cycle.\nan AI risk or harm is identified with a use case.\nAny use case reassessed as being high risk will be reported to the DTA."
+    },
+    {
+      "heading": "How we use AI",
+      "text": "We allow our staff to use AI in their work with the objective of enhancing productivity and service delivery. This includes enterprise AI deployed in our closed internal ICT environment like Microsoft 365 Copilot, as well as publicly available AI like ChatGPT, Claude and Gemini that is that is not deployed in our closed internal ICT environment.\nThe tasks completed by our staff using AI falls into several usage patterns and domains as outlined by the DTA’s Classification system for AI use . These are:\nthe Analytics and insights usage pattern primarily in the Scientific , and Policy and legal domains, where the sensitivity of the data is low risk.\nthe Workplace productivity usage pattern primarily in the Service delivery , and Corporate and enabling domains.\nOur staff use AI to:\nassist in the creation of accessible versions of government documents,\nassist with policy research and analysis.\nsummarise data across multiple sources.\ninterrogate, analyse and obtain insights from datasets.\nanswer questions from staff regarding workplace policies, procedures and processes.\nassist in the analysis, creation or summarisation of documents, emails or other content.\ncreate and debug code used in data analysis, management and processing.\nassist in the creation of meeting minutes or interview transcripts.\nsearch information repositories and retrieve documents, information or data.\nWe do not use AI within the Decision making and administrative action or Image processing usage patterns, or the Compliance and fraud detection , and Law enforcement, intelligence and security domains."
+    },
+    {
+      "heading": "How we govern our AI",
+      "text": "Finance has a risk-based approach to the use of AI. This approach focuses on identifying, evaluating and monitoring the level of risk associated with implementing AI systems. Once implemented, we monitor the effectiveness of our AI systems by:\nhaving robust governance arrangements, policies and processes; and.\nmonitoring AI usage."
+    },
+    {
+      "heading": "Our AI Governance Committee",
+      "text": "We have an AI Governance Committee (the Committee) to oversee our adoption and use of AI within Finance. The functions of this Committee include:\ndeveloping and implementing AI safely.\nidentifying, assessing and managing AI risks and opportunities.\npromoting a culture of safe and responsible use of AI.\noverseeing and implementing policies and advice from the DTA.\nThis Committee is co-chaired by two accountable officials (AO) and its membership includes senior executive representatives from the following areas:\nInformation Communication Technology Division (co-chair, First Assistant Secretary, Chief Information Officer and AO).\nRisk, Claims and Regulatory Reform Division (co-chair, First Assistant Secretary and AO).\nBudget Policy and Data Division.\nCorporate Strategy and Operations Division.\nDigital ID and Data Policy Division.\nLegal and Assurance Branch.\nHuman Resources Branch."
+    },
+    {
+      "heading": "Our internal policies and processes",
+      "text": "Finance has policies and processes for the adoption and use of AI by our staff, including:\nAcceptable use policy.\nGuidance on the use of generative artificial intelligence.\nInformation security management policy framework.\nInformation and data policy.\nPrivacy policy.\nRisk management policy framework.\nThese are regularly reviewed to ensure they remain fit for purpose.\nWe provide our staff with guidance and training on the safe and responsible use of AI. Staff are required to complete this training prior to being granted access to our secure internal AI."
+    },
+    {
+      "heading": "Our adherence to Whole of Australian Government AI policies",
+      "text": "Finance is dedicated to fully implementing the Policy and ensuring ongoing compliance with the Policy. This includes reviewing and updating this statement annually, or when new factors or significant changes to our AI approach impact it.\nFinance has implemented all mandatory requirements outlined within the Policy , as demonstrated by the information contained within this statement."
+    },
+    {
+      "heading": "Who to contact regarding our statement",
+      "text": "For any questions regarding this statement, or for more information about how Finance uses AI, please email: feedback@finance.gov.au\nThis statement is authorised by Finance’s two accountable officials, the First Assistant Secretary of the Information, Communication and Technology Division and the First Assistant Secretary of the Risk, Claims and Regulatory Reform Division."
+    }
+  ]
+}

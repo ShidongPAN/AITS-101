@@ -1,0 +1,29 @@
+{
+  "title": "Our AI transparency statement",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "text": "The Office of the Australian Information Commissioner is committed to transparency and accountability in its use of existing and emerging technologies, including artificial intelligence (AI)."
+    },
+    {
+      "heading": "Current use of AI",
+      "text": "The OAIC does not currently use AI for any of its regulatory, operational, or administrative functions."
+    },
+    {
+      "heading": "Future intentions for AI use",
+      "text": "The OAIC monitors AI developments to explore how such technologies may be leveraged to enhance service delivery, improve operational efficiency, and support our regulatory responsibilities. The OAIC is committed to ensuring any future adoption of AI technology by the agency aligns with the Australian government's Policy for responsible AI in government ."
+    },
+    {
+      "heading": "Monitoring and governance of potential AI systems",
+      "text": "Should the OAIC decide to deploy AI systems in the future, governance and oversight would be implemented to ensure their effectiveness and compliance with the Privacy Act 1988 (Cth), the Freedom of Information Act 1982 (Cth), other relevant legislation and government policy."
+    },
+    {
+      "heading": "Protecting the public from negative impacts of AI",
+      "text": "Should the OAIC adopt AI technologies we will conduct thorough risk assessments and ensure that robust safeguards are in place to protect individuals’ rights and prevent adverse outcomes."
+    },
+    {
+      "heading": "Commitment to safe and responsible AI use",
+      "text": "We are committed to ensuring that any future OAIC AI systems are deployed safely and responsibly. This includes upholding the highest standards of integrity, prioritising government and public trust and value, and ensuring that AI technologies are used in a manner that aligns with government policy, OAIC values and our legal obligations.\nThis statement will be reviewed regularly to reflect any changes in the OAIC's approach to AI, including any future adoption of AI technologies.\nFor further information on our approach to AI, or to raise any concerns, please contact the OAIC directly."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Artificial Intelligence Transparency Statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Last updated:\n28 February 2025\nIn accordance with the Digital Transformation Agency’s (DTA)\nPolicy for responsible use of AI in government\n, this page provides the department’s statement on Artificial Intelligence (AI) Transparency.\nThe department sees potential to use AI to support delivery of the outcomes in our\nCorporate Plan\nand realise benefits for the organisation and public. The department’s commitment to digital innovation aligns with the Australian Government’s\nData and Digital Government Strategy\nin relation to adopting emerging technologies.\nWhen referring to AI the department applies the\nOrganisation for Economic Co-operation and Development (OECD)\ndefinition:\n\"A machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment\" (OECD).\nThe department commits to using AI in a safe and responsible manner. We always use AI with human oversight or intervention."
+    },
+    {
+      "heading": "How we use AI",
+      "text": "The department is currently using AI to support our delivery of innovative and expert advice to the Australian Government grounded in evidence and science.\nThe classification of the departments usage of AI and domains is based on the Australian Governments classification system (see Classification system for AI use on the DTA Artificial intelligence in government page), tailored to the department’s activities.\nThe department’s current use of AI is focused in the policy, scientific, and administrative and regulatory domains, always with a human as a decision maker. The department is making some use of AI in corporate and enabling services – in its media monitoring activities and to support clear communication.\nAcross these domains, the department uses AI to support policy development, analysis, monitoring, decision making and communication by:\nInforming decision making and administrative actions by providing input to a human decision maker. For example, analysing document sets submitted to the department to ensure all relevant information is included.\nFinding and creating insights from various types of data through detailed analysis, predictive modelling, and reporting. For example, creating insights from unstructured PDF documents.\nImproving workplace productivity, including through automation of tasks, management of workflows and enabling communication. For example, checking that documents meet required accessibility standards and providing feedback on how to make writing clear and concise.\nProcessing sensor data (videography, imagery, sound, radar etc.)  to identify patterns and objects. For example, identifying the presence of animals from thermal imaging.\nThe department supports the use of generative AI tools by staff, guidance is provided on how to do so responsibly and ethically, and in accordance with relevant legislation and policies. Users of generative AI tools are reminded of their individual responsibilities when accessing publicly available tools.\nWe will continue to explore further applications of AI to support our vision, purposes and outcomes as set out in our Corporate Plan . This may include applications across policy development, program delivery, asset management, the administration of legislation and regulation. We will update this statement as our use of AI changes."
+    },
+    {
+      "heading": "Public interaction and impact",
+      "text": "Our department is committed to ensuring that the use of AI by the department is for the benefit of the public. The department recognises that an assessment of whether a particular use of AI is beneficial will often involve the exercise of judgement. Therefore, any decisions or outcomes generated or informed by AI that could affect the public will involve human oversight or intervention to ensure fairness and accountability."
+    },
+    {
+      "heading": "Monitoring AI effectiveness and impacts",
+      "text": "The department has established and maintains an AI use case register. The register collects information about AI solutions that are in development or use across the Department. An executive sponsor is identified for each use case, along with its business owner.\nIn completing the register business owners must ensure that AI is implemented safely and responsibly which includes identifying how they monitor ongoing effectiveness, identify potential negative impacts and steps implemented to mitigate potential harms from AI use.\nThere is high level alignment between the register and the Commonwealth AI Assurance framework pilot , with the risk of each solution assessed under the assurance framework risk matrix. Should any high-risk use cases be surfaced through the register reporting to the DTA will occur in line with the Policy requirements.\nThe department will develop and publish an AI ethics and governance framework that aligns with whole of government policy."
+    },
+    {
+      "heading": "Compliance",
+      "text": "The department will utilise AI in accordance with applicable legislation, regulations, frameworks and policies.\nWe will comply with all mandatory requirements of the Policy for responsible use of AI in government .\nWe will regularly review our compliance as a part of existing governance, and risk management processes.\nAs the department implements its Enterprise Data Strategy we will ensure ongoing compliance by embedding a culture that balances AI risk management and innovation."
+    },
+    {
+      "heading": "Accountable official",
+      "text": "The department’s Chief Data Officer was designated as the accountable official for the department under the Policy for the responsible use of AI in government on 11 November 2024."
+    },
+    {
+      "heading": "Contact",
+      "text": "For questions about this statement, please email CDO@dcceew.gov.au"
+    },
+    {
+      "heading": "AI transparency statement",
+      "text": "This statement was last updated in February 2025. In line with the Policy for responsible use of AI in government it will be updated if our approach to and use of AI changes, and at least every twelve months."
+    }
+  ]
+}
