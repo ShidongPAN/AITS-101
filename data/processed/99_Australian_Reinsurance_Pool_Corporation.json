@@ -1,0 +1,33 @@
+{
+  "title": "Artificial Intelligence (AI) Transparency Statement",
+  "sections": [
+    {
+      "heading": "",
+      "text": "Australian Reinsurance Pool Corporation’s (ARPC) AI Transparency Statement has been developed in accordance with the Digital Transformation Agency’s (DTA) Policy for responsible use of AI in government."
+    },
+    {
+      "heading": "Intentions Behind AI Adoption",
+      "text": "ARPC’s use of AI is limited to the development of use cases internally, focused on improving operational efficiencies, advancing our data analytics capabilities and improving decision making in line with ARPC’s strategic priorities as outlined in our Corporate Plan. (DTA domains of Corporate and Enabling, and Workplace Productivity and Analytics for Insight *).\n*Please see Classification system for AI use for more information on usage patterns related to AI in agencies."
+    },
+    {
+      "heading": "How we use AI",
+      "text": "Our current use of AI focuses on enhancing workplace productivity through generative AI chatbots and productivity tools. Our current use cases are limited to the adoption of Microsoft 365 Copilot Web (Copilot) and ChatGPT.\nThe AI tools we use are limited to accessing publicly available data and do not have direct access to ARPC’s internal systems or information. Staff may manually upload selected documents when needed, ensuring human oversight and control.\nThese tools are primarily used to improve web search capabilities, drafting of documents and software code development.\nWe do not use AI in our direct engagement with external stakeholders, including insurers or any government bodies."
+    },
+    {
+      "heading": "Monitoring and Accountability",
+      "text": "All AI initiatives are assessed for risk and compliance and overseen by the Chief Operating Officer (COO), who is, ARPC’s designated Accountable Officer for AI use.\nARPC employees are required to undertake training on the appropriate use of AI prior to enabling their access to any AI tools and on an ongoing basis, as required.\nUsage of AI systems is monitored through our governance frameworks which oversee the effectiveness of the deployed AI systems, to ensure compliance with ARPC’s AI Policy and adherence to key processes and controls."
+    },
+    {
+      "heading": "Compliance with Legislation and Regulations",
+      "text": "We have established robust processes and risk management strategies. ARPC’s AI Policy aligns with the Australian Government’s Policy for responsible use of AI in government - which ARPC has voluntarily adopted.\nARPC’s AI usage complies with Australian legislation, such as data privacy and anti-discrimination laws.\nOur Information Security Policy broadly aligns with ARPC’s Protective Security Policy Framework (PSPF) and Information Security Manual (ISM)."
+    },
+    {
+      "heading": "Statement Review and Updates",
+      "text": "This transparency statement was last updated on 03 November 2025.\nThis statement is reviewed at least annually or whenever significant changes occur which materially affect the statement’s accuracy."
+    },
+    {
+      "heading": "Contact Information",
+      "text": "For enquiries about ARPC’s AI use please email: [email protected]"
+    }
+  ]
+}
