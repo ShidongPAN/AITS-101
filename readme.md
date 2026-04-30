@@ -122,10 +122,10 @@ Users are responsible for ensuring that their use of the dataset also complies w
 If you use this dataset, please cite the corresponding paper:
 
 ```text
-@article{pan2026aits101,
+@article{pan2026creation,
   title={The Creation and Analysis of Government AI Transparency Statements in Australia},
   author={Pan, Shidong and Gong, Haochen and Xia, Boming and Sun, Xiaoyu and Xu, Xiwei and Zhu, Liming},
-  journal={arXiv preprint arXiv},
+  journal={arXiv preprint arXiv:2604.26075},
   year={2026}
 }
 ```
